@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tunglies&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tunglies&show_icons=true&hide_rank=true&theme=catppuccin_latte)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tunglies&layout=compact&exclude_repo=Tunglies.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tunglies&layout=compact&&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tunglies/Tunglies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
